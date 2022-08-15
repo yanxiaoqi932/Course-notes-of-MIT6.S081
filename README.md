@@ -10,4 +10,5 @@ https://mit-public-courses-cn-translatio.gitbook.io/mit6-s081/
 https://github.com/FrankZn/xv6-riscv-book-Chinese
 
 ## Catalogue of course notes
+[1-introduction](https://github.com/yanxiaoqi932/Course-notes-of-MIT6.S081/blob/master/1-introduction.md)
 
